@@ -1,5 +1,5 @@
 # file name: exercise2
-# written by: 3150103990 宋一之
+# written by:
 
 #! /bin/bash
 

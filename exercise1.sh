@@ -1,5 +1,5 @@
 # file name: exercise1
-# written by: 3150103990 宋一之
+# written by:
 
 #! /bin/bash
 if [ $# -ne 1 ]  # 传入参数不是正好为1个

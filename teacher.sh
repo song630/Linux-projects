@@ -1,6 +1,6 @@
 # file name: teacher
 # project: assignment management system
-# written by: 3150103990 宋一之
+# written by:
 
 #! /bin/bash
 
